@@ -64,8 +64,3 @@ To grow into a skilled cybersecurity analyst, starting as a SOC Tier 1 analyst w
   Automating security workflows using tools like TheHive, Shuffle, and Sigma rules.
 
 ---
-
-### Next Steps
-Let me know once your LinkedIn and GitHub repo links are live, and I’ll update them in this template.
-
-Would you also like a matching **portfolio website layout** using this style for your GitHub Pages? I can generate it with simple, elegant HTML/CSS for you.

@@ -1,7 +1,7 @@
 # Hello, I'm Ebuka
 <a href="https://linkedin.com/in/ebuka-ezeogu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity professional with a strong foundation in hands-on server, network, and web infrastructure setup. I’m currently focused on building a robust portfolio through real-world projects and labs, while also learning web development as a valuable side skill.
+I am an cybersecurity professional with a strong foundation in hands-on server, network, and web infrastructure setup. I’m currently focused on building a robust portfolio through real-world projects and labs, while upgrading my proficiency in web development.
 
 ## Objective
 

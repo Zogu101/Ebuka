@@ -11,12 +11,12 @@ To grow into a skilled cybersecurity analyst, starting as a SOC Tier 1 analyst w
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|----------------------------|
+| Security Lab Simulations                      |  <a href="https://github.com/Zogu101/Zogu-security-lab">Cybersecurity Home Lab Setup</a> | 
 | Server Setup & Remote Access (DDNS)           | <a href="https://github.com/yourusername/remote-server-ddns-wlan-setup">Home Server & DDNS Project</a> |
 | Web Development (Frontend)                    | <a href="https://github.com/yourusername/portfolio-site">Portfolio Website</a> |
 | Network Traffic Monitoring and Packet Analysis | [Coming Soon] |
 | Scripting (Python/Bash)                       | [Coming Soon] |
 | Linux Administration & Networking             | <a href="https://github.com/yourusername/linux-network-labs">Linux Network Labs</a> |
-| Security Lab Simulations                      | [In Progress] |
 
 ## Tools
 
